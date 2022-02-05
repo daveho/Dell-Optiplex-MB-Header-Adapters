@@ -1,6 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:Dell 6pin 2.0mm Front Panel Header Adapter-cache
-EELAYER 29 0
+EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -15,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Connector_Generic:Conn_02x03_Odd_Even J2
+L Dell-6pin-2.0mm-Front-Panel-Header-Adapter-rescue:Conn_02x03_Odd_Even-Connector_Generic J2
 U 1 1 5D44D227
 P 4800 3700
 F 0 "J2" H 4850 4017 50  0000 C CNN
@@ -26,7 +25,7 @@ F 3 "~" H 4800 3700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_02x03_Odd_Even J1
+L Dell-6pin-2.0mm-Front-Panel-Header-Adapter-rescue:Conn_02x03_Odd_Even-Connector_Generic J1
 U 1 1 5D44F1CB
 P 4800 3150
 F 0 "J1" H 4850 3467 50  0000 C CNN

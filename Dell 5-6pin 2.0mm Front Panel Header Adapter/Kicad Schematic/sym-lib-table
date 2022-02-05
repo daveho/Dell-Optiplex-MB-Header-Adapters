@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Dell-6pin-2.0mm-Front-Panel-Header-Adapter-rescue)(type Legacy)(uri "${KIPRJMOD}/Dell 6pin 2.0mm Front Panel Header Adapter-rescue.lib")(options "")(descr ""))
+)

@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# Dell-6pin-2.0mm-Front-Panel-Header-Adapter-rescue_Conn_02x03_Odd_Even-Connector_Generic
+# Conn_02x03_Odd_Even-Connector_Generic
 #
-DEF Dell-6pin-2.0mm-Front-Panel-Header-Adapter-rescue_Conn_02x03_Odd_Even-Connector_Generic J 0 40 Y N 1 F N
+DEF Conn_02x03_Odd_Even-Connector_Generic J 0 40 Y N 1 F N
 F0 "J" 50 200 50 H V C CNN
-F1 "Dell-6pin-2.0mm-Front-Panel-Header-Adapter-rescue_Conn_02x03_Odd_Even-Connector_Generic" 50 -200 50 H V C CNN
+F1 "Conn_02x03_Odd_Even-Connector_Generic" 50 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
