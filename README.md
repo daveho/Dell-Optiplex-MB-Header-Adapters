@@ -1,7 +1,7 @@
 # Front Panel Header Adapters for Dell Optiplex Motherboards
 
 **This is a clone of the original Harbin Repairs project.** The [5-6 pin front panel
-header adapter](Dell 5-6pin 2.0mm Front Panel Header Adapter) PCB has been
+header adapter](Dell%325-6pin%322.0mm%32Front%32Panel%32Header%32Adapter) PCB has been
 modified so that it doesn't hang off the side of the motherboard, which
 (hopefully) means that it will work with Micro ATX cases where the motherboard
 is mounted very close to the power supply. (The Rosewill LINE-M is an
